@@ -30,7 +30,16 @@ git remote add origin link
 git push -u origin main  
 git log --oneline - логи коммитов  
 в head хранится ссылка на ласт коммит  
+супер помогут : git chechout <hash> - переводит все файлы на состояние коммита
+git switch (main или -) возвращение к последнему
+git branch - показывает где ты находишься
+git log --name-status
 
+https://learngitbranching.js.org/?locale=ru_RU&demo=
+бля игра прикольная если че ваще можно потрениться
+
+16 августа 2023
+работа с гитигнором
 
 хеш испльзуется sha-1   
 ## Как исправить коммит  
